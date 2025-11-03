@@ -54,6 +54,9 @@ The ChatGPT for Power BI Users course truly demonstrated how human and AI collab
 ## Dashboard 
 <img width="1229" height="691" alt="PBI_Dashboard" src="https://github.com/user-attachments/assets/b6da7709-4845-464a-99a9-de5f36985007" />
 
+## Data Model
+<img width="1388" height="714" alt="image" src="https://github.com/user-attachments/assets/59fddaee-8387-4424-921d-c76f0a3ecf3d" />
+
 ## Certificate, Badge and [Credentials](https://enterprisedna.co/certifications/showcase/3c158032-3572-4429-8daa-65fc88a33807)
 
 Certificate: 
